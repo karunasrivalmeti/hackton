@@ -1,0 +1,120 @@
+.hu,.hi{
+    text-decoration: none;
+}
+
+.log{
+    display: flex;
+     width:15%;
+     margin-right:5%;
+    float: right;
+}
+.main{
+    background: url(https://www.wallpaperup.com/uploads/wallpapers/2014/11/09/511920/45482ae7629d9bbc982b907b8d90e776.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1350px;
+    animation: pic 9s infinite;
+
+}
+.main:hover{
+    background: url(http://www.snackandbakery.com/ext/resources/images/bakeryproducts.jpg?1432238179);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1250px;
+    animation: pic 9s infinite;
+} 
+@keyframes pic{
+    0% {
+    background: url(https://images7.alphacoders.com/368/368875.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1250px;
+}
+25%{
+    background: url(https://images6.alphacoders.com/100/thumb-1920-1002209.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1350px;
+}
+50%{
+    background: url(https://logitrustvoyages.com/logitrustblog/wp-content/uploads/2020/07/street_food.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1350px;
+}
+75%{
+    background: url(http://www.travelsiteindia.com/blog/wp-content/uploads/2018/04/traditional-indian-food-sessions.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1350px;
+}
+100%{
+    background: url(https://wallpapercave.com/wp/wp3376127.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:550px;
+    width:1350px;
+}
+}
+.mai{
+    background: url(https://www.langweiledich.net/wp-content/uploads/2018/10/Moataz-Mohamed_01.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:490px;
+    width:1000px;
+    
+}
+.minu{
+    height:300px;
+    width:300px;
+   border: 1px solid black;
+   background-color: white;
+   opacity:0.6;
+   margin-left:750px;
+   margin-top:60px;
+   border-radius:25px 25px 25px 25px;
+   box-shadow: 3px 3px 3px 3px slategray;
+   
+}
+.bi{
+    position: absolute;
+    margin-top:-240px;
+    margin-left: 800px;
+}
+.ni{
+    border: 1px solid black;
+}
+.hee{
+    background: url(https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?cs=srgb&dl=bread-color-cooking-1565982.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:500px;
+    width:1000px;
+}
+.hoo{
+    height:500px;
+    width:400px;
+   border: 1px solid black;
+   background-color: rgb(65, 28, 28);
+   opacity:0.6;
+   margin-left:100px;
+   margin-top:60px;
+   border-radius:25px 25px 25px 25px;
+   box-shadow: 3px 3px 3px 3px rgb(36, 3, 3);
+}
+.gi{
+    position: absolute;
+    margin-top:-470px;
+    margin-left: 150px;
+}
+.biu{
+    border-radius: 50%;
+    margin-left:500px;
+    margin-top:100px;
+}
